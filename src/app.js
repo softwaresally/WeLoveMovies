@@ -16,11 +16,11 @@ app.use("/movies", moviesRouter);
 app.use("/reviews", reviewsRouter);
 app.use("/theaters", theatersRouter);
 
+app.use(notFound);
+
 app.use((error, req, res, next) => {
     const { status = 500, message = "error" } = error;
     res.status(status).json({ error: message })
 })
-
-app.use(notFound);
 
 module.exports = app;

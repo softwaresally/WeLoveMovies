@@ -6,4 +6,4 @@ This project displays my ability to work with knex as well as writing code for c
 
 Deployed application link: https://welovemovies-frontend-f9lm.onrender.com/
 
-![image](https://user-images.githubusercontent.com/105070505/215635287-415e7d30-3265-4ec2-a045-8b6b9bd24bd8.png)
+![image](https://user-images.githubusercontent.com/105070505/215638613-95e843fc-2ebb-4726-8158-163b27b58d2b.png)
